@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>gender</key>
+    <array>
+        <string>Unselected_0</string>
+        <string>Male_1</string>
+        <string>Female_2</string>
+    </array>
+    <key>job</key>
+    <array>
+        <string>Unselected_0</string>
+        <string>Employee_1</string>
+        <string>self employed_2</string>
+        <string>Civil servant_3</string>
+        <string>Vocational school student_4</string>
+        <string>College student_5</string>
+        <string>Food related_6</string>
+        <string>Doctor_7</string>
+        <string>Nurse_8</string>
+        <string>Beauty･Beauty_9</string>
+        <string>Advertisement related_10</string>
+        <string>IT･System WEB system_11</string>
+        <string>Finance･Insurance_12</string>
+        <string>Real estate related_13</string>
+        <string>Other_14</string>
+    </array>
+    <key>residence</key>
+    <array>
+        <string>Unselected</string>
+        <string>Ubud</string>
+        <string>Seminyak</string>
+        <string>Kuta</string>
+        <string>Regian</string>
+        <string>Kerobokan</string>
+        <string>Sanur</string>
+        <string>Nusa Dua</string>
+        <string>Denpasar</string>
+        <string>Tuban</string>
+    </array>
+    <key>personality</key>
+    <array>
+        <string>Unselected_0</string>
+        <string>Friendly_1</string>
+        <string>Bright_2</string>
+        <string>Funny_3</string>
+        <string>Cool_4</string>
+        <string>Natural_5</string>
+        <string>Spoiled_6</string>
+        <string>Other_7</string>
+    </array>
+    <key>hobby</key>
+    <array>
+        <string>Drive_0</string>
+        <string>Anime･cartoon･game_1</string>
+        <string>Sports_2</string>
+        <string>karaoke_3</string>
+        <string>Gambling_4</string>
+        <string>Shopping_5</string>
+        <string>Other_6</string>
+    </array>
+</dict>
+</plist>
