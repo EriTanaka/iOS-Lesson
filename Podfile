@@ -6,11 +6,11 @@ target 'iOS-Lesson' do
   use_frameworks!
 
   # Pods for iOS-Lesson
-  pod 'Alamofire',                         '4.6.0'
-  pod 'AlamofireNetworkActivityLogger',    '2.2.0'
-  pod 'NJKWebViewProgress',                '0.2.3'
-  pod 'SVPullToRefresh',                   '0.4.1'
-  pod 'Nuke',                              '6.0'
+  pod 'Alamofire',                         '~> 4.7.2'
+  pod 'AlamofireNetworkActivityLogger',    '~> 2.3.0'
+  pod 'NJKWebViewProgress',                '~> 0.2.3'
+  pod 'SVPullToRefresh',                   '~> 0.4.1'
+  pod 'Nuke',                              '~> 6.1.1'
 
   target 'iOS-LessonTests' do
     inherit! :search_paths
